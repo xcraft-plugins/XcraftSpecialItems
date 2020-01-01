@@ -1,0 +1,4 @@
+name: XcraftSpecialItems
+version: 1.0
+main: de.ardania.jan.xcraftspecialitems.Main
+api-version: 1.14
